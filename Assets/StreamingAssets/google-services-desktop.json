@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "290743699851",
+    "firebase_url": "https://unitygame-e88c7-default-rtdb.firebaseio.com",
+    "project_id": "unitygame-e88c7",
+    "storage_bucket": "unitygame-e88c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290743699851:android:eaf294fd068fc76bca478e",
+        "android_client_info": {
+          "package_name": "Doodle.jump"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290743699851-6h963eohufoqre37qif84124a3am30on.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBUU5q5Jz2JPqXkLGPf0D1sUA84mDQY0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290743699851-6h963eohufoqre37qif84124a3am30on.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
